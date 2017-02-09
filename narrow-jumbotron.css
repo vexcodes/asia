@@ -1,14 +1,7 @@
 /* Space out content a bit */
 body {
-  text-align: center;
-  border-bottom: .05rem solid #e5e5e5;
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("market.png");
-  background-repeat: no-repeat;
-  background-position: bottom;
-  opacity: 1;
-  background-size:cover;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
