@@ -69,12 +69,21 @@ body {
 
 /* Supporting marketing content */
 .marketing {
-  margin: 3rem 0;
+  text-align: center;
+  border-bottom: .05rem solid #e5e5e5;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-repeat: no-repeat;
+  background-color: white;
+  background-position: bottom;
+  opacity: 1;
+  background-size:cover;
 }
-.marketing p + h4 {
-  margin-top: 1.5rem;
+.jumbotron .btn {
+  padding: .75rem 1.5rem;
+  font-size: 1.5rem;
+  opacity: 1;
 }
-
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 48em) {
   /* Remove the padding we set earlier */
