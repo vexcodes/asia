@@ -1,7 +1,14 @@
 /* Space out content a bit */
 body {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  text-align: center;
+  border-bottom: .05rem solid #e5e5e5;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("140116003943-kim-jong-un-north-korea-profile-dictator-horizontal-large-gallery.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  opacity: 1;
+  background-size:cover;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
