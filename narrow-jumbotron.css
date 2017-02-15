@@ -2,7 +2,11 @@
 body {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-  background-image: url("140116003943-kim-jong-un-north-korea-profile-dictator-horizontal-large-gallery.png");
+   background-image: url("bg.png.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  opacity: 1;
+  background-size:cover;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -64,14 +68,12 @@ body {
 /* Supporting marketing content */
 .marketing {
   text-align: center;
-  text-color: white;
   border-bottom: .05rem solid #e5e5e5;
   padding-top: 10rem;
   padding-bottom: 10rem;
   background-repeat: no-repeat;
   background-color: white;
   background-position: bottom;
-  background-opacity: 0.25;
   background-size:cover;
 }
 .jumbotron .btn {
