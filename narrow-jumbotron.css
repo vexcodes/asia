@@ -2,7 +2,7 @@
 body {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-   background-image: url("bg.png.jpg");
+   background-color: white;
   background-repeat: no-repeat;
   background-position: bottom;
   opacity: 1;
@@ -52,7 +52,7 @@ body {
   border-bottom: .05rem solid #e5e5e5;
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("140116003943-kim-jong-un-north-korea-profile-dictator-horizontal-large-gallery.png");
+  background-image: url("bg.png.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
   opacity: 1;
